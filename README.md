@@ -108,6 +108,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or additional information, please contact:
 
 - **Name:** Anna Muros
-- **Email:** amurosdel@gamil.com
+- **Email:** amurosdel@gmail.com
 - **GitHub:** [anitadynamita](https://github.com/anitadynamita/ShopEasy)
 
